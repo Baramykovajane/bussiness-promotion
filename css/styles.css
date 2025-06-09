@@ -1,0 +1,172 @@
+:root {
+    --font-family: "Poppins", sans-serif;
+    --second-family: "Inter", sans-serif;
+    --third-family: "Montserrat", sans-serif;
+    --font3: "FontAwesome", sans-serif;
+    --font4: "Roboto", sans-serif;
+    --font5: "ProximaNova", sans-serif;
+    --font6: "Asap Condensed", sans-serif; }
+        body {
+            font-family: var(--font-family);
+            color: #000;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;   }
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+
+.product {
+        font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        font-size: 30px;
+        line-height: 0.93333;
+        color: #173a56;
+    }
+    .nav-menu {
+background-color: #fff;
+
+    }
+    .nav-link{
+        font-family: "Poppins", sans-serif;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 1.75;
+            color: #22343d;
+    }
+        .nav-link:hover,
+        .nav-link:focus {
+            color: #404bbf;
+        }
+    
+    .hero-button-sign-in {
+    background-color: #BCD0E5;
+    font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-size: 16px;
+        text-align: center;
+        color: #173a56;}
+        
+    .hero-button-sign-up {
+    background-color: #00796b;
+    font-family: "Poppins", sans-serif;
+        font-weight: 600;
+        font-size: 16px;
+        color: #fff;
+                }
+        
+    .hero-button-sign-in:hover,
+    .hero-button-sign-in:focus
+                 {
+    background-color:#404bbf;
+color: #fff;
+box-shadow:0 4px 4px rgba(0, 0, 0, 0.25);}
+        
+    .hero-button-sign-up:hover,
+    .hero-button-sign-up:focus{
+    background-color: #404bbf; 
+    color: #fff;        }
+   .hero-section {
+    background-color: transparent;
+    text-align: center;}
+    .hero-title{
+            font-family: "Poppins", sans-serif;
+                font-weight: 700;
+                font-size: 40px;
+                line-height: 1.5;
+                color: #22343d;
+        }
+.hero-description {
+    font-family: "Poppins", sans-serif;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 1.55556;
+        color: #22343d;
+    }
+    .button-get-started {
+        font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        font-size: 16px;
+        color: #fff;
+        background-color: #02897A;
+    }
+    .button-watch-the-video{
+        font-family: "Poppins", sans-serif;
+            font-weight: 600;
+            font-size: 16px;
+            text-decoration: underline;
+            text-decoration-skip-ink: none;
+            color: #02897a;
+            background-color: #FFFFFF;
+    }
+    
+    .hero-button:hover,
+    .hero-button:focus {
+        opacity: 0.8;
+    }
+    .product-section {
+        background-color: #FFFFFF;
+    }
+    .product-title {font-family: "Poppins", sans-serif;
+        font-weight: 700;
+        font-size: 40px;
+        line-height: 1.5;
+        color:#22343d;}
+        .product-test {
+            font-family: "Poppins", sans-serif;
+                font-weight: 600;
+                font-size: 22px;
+                color: #22343d;
+        }
+        .product-description {
+            font-family: "Poppins", sans-serif;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 1.625;
+            color: #22343d;}
+            .product-button {
+                font-family: "Poppins", sans-serif;
+                font-weight: 600;
+                font-size: 16px;
+                color: #fff;
+                background-color: #02897A;
+            }
+            .product-button:hover,
+            .product-button:focus {
+                background-color: #404bbf;
+                color: #fff;
+                box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+            }
+            .services-section {
+                background-color: #FFFFFF;
+            }
+            .service-name {
+                font-family: "Poppins", sans-serif;
+                    font-weight: 600;
+                    font-size: 16px;
+                    color: #22343d;
+            }
+            .service-heading {
+                font-family: "Poppins", sans-serif;
+                font-weight: 700;
+                font-size: 32px; 
+                color: #22343d;}
+                .service-description {
+                    font-family: "Poppins", sans-serif;
+                        font-weight: 400;
+                        font-size: 16px;
+                        line-height: 1.625;
+                        color: #22343d;
+                }
+                .service-title {
+                    font-family: "Poppins", sans-serif;
+                        font-weight: 600;
+                        font-size: 16px;
+                        line-height: 1.625;
+                        color: #22343d;
+                }
